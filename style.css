@@ -1,0 +1,37 @@
+
+
+h1{
+    color: yellow;
+}
+
+#div1{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 1px soild black;
+    background-color: red;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 1px soild black;
+    background-color: yellow;
+    margin-bottom: 10px;
+    border-radius: 50%;
+}
+
+#div3{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 1px soild black;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#main{
+    border:5px soild black;
+}
